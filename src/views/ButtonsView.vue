@@ -47,6 +47,9 @@ function copyCode() {
           <a href="https://trafficlunar.net" target="_blank">
             <img src="/gif/buttons/trafficlunar.gif" alt="trafficlunar" class="web-badge" loading="lazy" />
           </a>
+          <a href="https://centiskor.ch/" target="_blank">
+            <img src="/gif/buttons/centiskorch-badge.png" alt="centiskor.ch" class="web-badge" loading="lazy" />
+          </a>
         </div>
       </div>
     </div>
